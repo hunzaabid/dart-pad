@@ -1,0 +1,5 @@
+void main() {
+  var length = 7;
+  var breath = 5;
+  print("area=${length*breath}");
+}
